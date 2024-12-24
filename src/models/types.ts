@@ -1,2 +1,2 @@
 export type EndpointTypes = 'mainnet' | 'devnet' | 'localnet'
-//export type EndpointTypes = 'mainnet' 
+//export type EndpointTypes = 'mainnsset' 
